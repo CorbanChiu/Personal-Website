@@ -1,15 +1,13 @@
 {
   "name": "personal-website",
-  "homepage": "CorbanChiu.github.io/Personal-Website",
+  "homepage": "http://CorbanChiu.github.io/Personal-Website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
