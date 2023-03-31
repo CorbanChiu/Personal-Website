@@ -1,0 +1,11 @@
+.left {
+  float: left;
+  margin: 2rem;
+  list-style: none;
+}
+
+.right {
+  float: right;
+  margin: 3rem;
+  list-style: none;
+}
