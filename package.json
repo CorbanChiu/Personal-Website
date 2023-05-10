@@ -1,7 +1,7 @@
 {
   "name": "personal-website",
-  "homepage": "https://CorbanChiu.github.io/",
-  "private": false,
+  "homepage": "https://CorbanChiu.github.io/Personal-Website",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
